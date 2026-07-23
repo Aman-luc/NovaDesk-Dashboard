@@ -2,7 +2,7 @@
 built with HTML, CSS and JavaScript tools.
 
 ## 🚀 Live Demo
-(Link)
+https://aman-luc.github.io/NovaDesk-Dashboard/
 
 ## 📸 Preview
 (Image)
