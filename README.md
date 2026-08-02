@@ -30,7 +30,17 @@ This project was built to improve frontend dashboard development skills while fo
 
 ## Preview
 
-(Add Screenshot)
+### Dashboard
+![Dashboard](Assets/dashboard-overview.png)
+
+### Project Management
+![Projects](Assets/projects-management.png)
+
+### Notifications
+![Notifications](Assets/notifications-panel.png)
+
+### User Profile
+![Profile](Assets/profile-menu.png)
 
 ## Author
 
